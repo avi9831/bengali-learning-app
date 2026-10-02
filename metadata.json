@@ -1,0 +1,7 @@
+{
+  "name": "Bengali Learning App",
+  "description": "An extensive, long-term offline Bengali learning application featuring a 20-level deep curriculum with infinite sub-levels, native pronunciation, visual quizzes, and comprehensive word breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
